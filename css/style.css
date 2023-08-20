@@ -1,0 +1,11 @@
+body {
+    background-image: url("nerv logo.png"), url("NGE Background.png");
+    background-color: #cccccc00;
+ 
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-image: url(nerv logo.png), url(NGE Background.png);
+    background-repeat: no-repeat, no-repeat;
+    background-size: 800px 418px, cover;
+
+}
